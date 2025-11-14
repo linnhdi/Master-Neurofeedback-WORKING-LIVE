@@ -1,0 +1,1 @@
+flower growth : 5.0, time taken : 300 seconds
